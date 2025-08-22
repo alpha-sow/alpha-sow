@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Alpha Sow
 
-### Full-Stack Developer | 5+ Years Experience | France 🇫🇷
+### Full-Stack Developer | France 🇫🇷
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alphasow.dev-blue?style=for-the-badge&logo=firefox)](https://alphasow.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@S_Alphaibrahima-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/S_Alphaibrahima)
