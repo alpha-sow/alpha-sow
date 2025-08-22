@@ -12,7 +12,7 @@
 ### 🚀 Welcome to my GitHub!
 
 I'm a passionate full-stack developer with **5 years of experience** building innovative solutions. 
-Check out my **[portfolio at alphasow.dev](https://alphasow.dev)** to see my latest projects and work.
+Check out my **[portfolio at alphasow.dev](https://alphasow.dev/en)** to see my latest projects and work.
 
 </div>
 
